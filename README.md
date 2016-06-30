@@ -1,6 +1,6 @@
 # FitsSystemWindowsFrameLayout
 
-This FitsSystemWindowsFrameLayout is a layout to use android:fitsSystemWindows="true" easily.
+This FitsSystemWindowsFrameLayout is a layout to show full screen with transparent status bar easily.
 
 ![](https://github.com/KyoSherlock/FitsSystemWindowsFrameLayout/raw/master/screenshots/screenshot2.png)
 
