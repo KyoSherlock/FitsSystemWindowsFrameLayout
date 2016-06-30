@@ -2,7 +2,7 @@
 
 This FitsSystemWindowsFrameLayout is a layout to use android:fitsSystemWindows="true" easily.
 
-![](https://github.com/KyoSherlock/FitsSystemWindowsFrameLayout/raw/master/screenshots/screenshot.png)
+![](https://github.com/KyoSherlock/FitsSystemWindowsFrameLayout/raw/master/screenshots/screenshot1.png)
 
 # Usage
 
