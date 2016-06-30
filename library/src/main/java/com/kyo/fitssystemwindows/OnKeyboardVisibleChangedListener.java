@@ -13,22 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.kyo.fitssystemwindow;
-
-import android.annotation.TargetApi;
-import android.os.Build;
-import android.view.WindowInsets;
-
+package com.kyo.fitssystemwindows;
 
 /**
  * Created by jianghui on 6/21/16.
  */
-@TargetApi(Build.VERSION_CODES.KITKAT_WATCH)
-public class FitsSystemWindowsFrameLayout2CompatApi21 {
-
-
-	public static int getBottomInset(Object insets) {
-		return insets != null ? ((WindowInsets) insets).getSystemWindowInsetBottom() : 0;
-	}
-
+public interface OnKeyboardVisibleChangedListener {
+	void onKeyboardVisibleChanged(boolean visible, int height);
 }

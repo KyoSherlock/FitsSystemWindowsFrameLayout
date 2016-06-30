@@ -9,7 +9,7 @@ This FitsSystemWindowsFrameLayout is a layout to use android:fitsSystemWindows="
 Below is an example of a FitsSystemWindowsFrameLayout. You need to set android:fitsSystemWindows="true" to FitsSystemWindowsFrameLayout and its children.
 
 ```xml
-<com.kyo.fitssystemwindow.FitsSystemWindowsFrameLayout
+<com.kyo.fitssystemwindows.FitsSystemWindowsFrameLayout
 	android:id="@+id/windowInsetsFrameLayout"
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:layout_width="match_parent"
@@ -28,7 +28,7 @@ Below is an example of a FitsSystemWindowsFrameLayout. You need to set android:f
 		android:layout_height="100dp"
 		android:background="#F06292"/>
 
-</com.kyo.fitssystemwindow.FitsSystemWindowsFrameLayout>
+</com.kyo.fitssystemwindows.FitsSystemWindowsFrameLayout>
 ```
 
 And set a transparent theme for the activity.

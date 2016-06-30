@@ -13,15 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.kyo.fitssystemwindow.sample;
+package com.kyo.fitssystemwindows.sample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.kyo.fitssystemwindow.OnKeyboardVisibleChangedListener;
-import com.kyo.fitssystemwindow.FitsSystemWindowsFrameLayout2;
+import com.kyo.fitssystemwindow.sample.R;
+import com.kyo.fitssystemwindows.OnKeyboardVisibleChangedListener;
+import com.kyo.fitssystemwindows.FitsSystemWindowsFrameLayout2;
 
 public class MainActivity extends AppCompatActivity {
 

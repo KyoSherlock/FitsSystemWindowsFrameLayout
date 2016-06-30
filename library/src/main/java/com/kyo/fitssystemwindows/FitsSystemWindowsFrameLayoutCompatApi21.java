@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.kyo.fitssystemwindow;
+package com.kyo.fitssystemwindows;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -24,7 +24,7 @@ import android.view.Gravity;
 import android.view.View;
 import android.view.WindowInsets;
 
-import com.kyo.fitssystemwindow.FitsSystemWindowsFrameLayout.LayoutParams;
+import com.kyo.fitssystemwindows.FitsSystemWindowsFrameLayout.LayoutParams;
 
 
 /**
